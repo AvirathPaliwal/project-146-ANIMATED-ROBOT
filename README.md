@@ -1,2 +1,2 @@
 # ANIMATED ROBOT
-I make a anumated robot which can move his eyes up and down
+I make a animated robot which can move his eyes up and down
